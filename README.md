@@ -14,6 +14,8 @@
 
 🎮 My hobbies include **video games**, **sports**, and exploring **space and military technologies** that involve **programming and innovation**.
 
+🧠 I’m currently deepening my knowledge in **Artificial Intelligence**, especially in **Machine Learning** and **Deep Learning**, exploring both the theoretical foundations and practical applications of intelligent systems.
+
 🎖️ I've been serving in the **Brazilian Army** for over 7 years, currently as a **Third Sergeant**. I'm now going through a **career transition**, looking for new challenges in the tech industry and eager to learn and grow.
 
 🚀 I'm always ready to **learn**, **collaborate**, and **improve** my skills.
@@ -73,11 +75,19 @@
 ### 🚀 Other Tools & Technologies I Enjoy
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+  <!-- Inteligência Artificial e Ciência de Dados -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
 </p>
 
 ---
