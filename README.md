@@ -19,6 +19,7 @@
 🎖️ I've been serving in the **Brazilian Army** for over 7 years, currently as a **Third Sergeant**. I'm now going through a **career transition**, looking for new challenges in the tech industry and eager to learn and grow.
 
 🚀 I'm always ready to **learn**, **collaborate**, and **improve** my skills.
+
 ---
 <p align="center">
   <img src="FYIsHjPgTXu23GHcRxhc_logo.jpg" alt="UniBrasil Logo" width="100"/>
