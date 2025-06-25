@@ -22,8 +22,7 @@
 
 ---
 
-![UniBrasil Logo](https://www.unibrasil.com.br/wp-content/uploads/2019/06/logo-unibrasil.png)
-
+![UniBrasil Logo](FYIsHjPgTXu23GHcRxhc_logo.jpg)
 ---
 
 ### 💻 Programming Languages & Technologies I Use or Study
