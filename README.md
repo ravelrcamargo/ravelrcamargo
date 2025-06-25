@@ -8,19 +8,64 @@
 
 ### 📌 About Me
 
-🇧🇷 I'm a Brazilian developer currently living in **Paraná**, and I'm studying **Software Engineering**.
+# 👋 Hello! I'm Ravel Rodrigues de Camargo
 
-I'm passionate about learning new things, solving problems, and coding real-world solutions in multiple languages!
+🎓 I'm currently studying **Software Engineering** at [UniBrasil](https://www.unibrasil.com.br/) in **Curitiba, Paraná - Brazil**.
+
+🎮 My hobbies include **video games**, **sports**, and exploring **space and military technologies** that involve **programming and innovation**.
+
+🎖️ I've been serving in the **Brazilian Army** for over 7 years, currently as a **Third Sergeant**. I'm now going through a **career transition**, looking for new challenges in the tech industry and eager to learn and grow.
+
+🚀 I'm always ready to **learn**, **collaborate**, and **improve** my skills.
 
 ---
 
-### 💻 Programming Languages I Like
+![UniBrasil Logo](https://www.unibrasil.com.br/wp-content/uploads/2019/06/logo-unibrasil.png)
+
+---
+
+### 💻 Programming Languages & Technologies I Use or Study
 
 <p align="left">
+
+  <!-- Linguagens -->
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+  <!-- Bancos de Dados -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+  <!-- Versionamento -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+  <!-- Sistemas Operacionais -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+  <!-- IDEs e Ferramentas -->
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
+
+  <!-- Tecnologias e Conceitos -->
+  <img src="https://img.shields.io/badge/REST-25A162?style=for-the-badge&logo=rest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-009688?style=for-the-badge&logo=agile&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/OOP-%23FF6F00?style=for-the-badge&logo=data&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%2300f?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/UML-FF4088?style=for-the-badge&logo=uml&logoColor=white" />
+
 </p>
 
 ---
