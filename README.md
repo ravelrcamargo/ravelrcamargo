@@ -22,7 +22,9 @@
 
 ---
 
-![UniBrasil Logo](FYIsHjPgTXu23GHcRxhc_logo.jpg)
+<p align="center">
+  <img src="FYIsHjPgTXu23GHcRxhc_logo.jpg" alt="UniBrasil Logo" width="100"/>
+</p>
 ---
 
 ### 💻 Programming Languages & Technologies I Use or Study
