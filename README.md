@@ -24,6 +24,7 @@
 <p align="center">
   <img src="FYIsHjPgTXu23GHcRxhc_logo.jpg" alt="UniBrasil Logo" width="100"/>
 </p>
+<br>
 ### 💻 Programming Languages & Technologies I Use or Study
 
 <p align="left">
