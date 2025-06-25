@@ -10,7 +10,7 @@
 
 # 👋 Hello! I'm Ravel Rodrigues de Camargo
 
-🎓 I'm currently studying **Software Engineering** at [UniBrasil](https://www.unibrasil.com.br/) in **Curitiba, Paraná - Brazil**. <img src="FYIsHjPgTXu23GHcRxhc_logo.jpg" alt="UniBrasil Logo" width="40" style="vertical-align:middle;" />
+🎓 I'm currently studying **Software Engineering** at [UniBrasil](https://www.unibrasil.com.br/) in **Curitiba, Paraná - Brazil**. <img src="FYIsHjPgTXu23GHcRxhc_logo.jpg" alt="UniBrasil Logo" width="28" style="vertical-align: text-bottom;" />
 
 🎮 My hobbies include **video games**, **sports**, and exploring **space and military technologies** that involve **programming and innovation**.
 
