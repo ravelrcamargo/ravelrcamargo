@@ -1,4 +1,4 @@
-<h1 align="center"> Welcome to my special repository!</h1>
+<h1 align="center"> Welcome to my repository!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&lines=Back-End+Developer+in+Progress;Software+Engineering+Student;Technology+Enthusiast+💻" />
