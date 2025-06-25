@@ -69,7 +69,6 @@
   <img src="https://img.shields.io/badge/UML-FF4088?style=for-the-badge&logo=uml&logoColor=white" />
 
 </p>
----
 
 ### 🚀 Other Tools & Technologies I Enjoy
 
